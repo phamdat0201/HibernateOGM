@@ -1,0 +1,23 @@
+{
+	"_id": 14,
+	"order_status": 4,
+	"order_date": {
+		"$date": "2016-02-08T17:00:00Z"
+	},
+	"required_date": {
+		"$date": "2016-02-08T17:00:00Z"
+	},
+	"shipped_date": {
+		"$date": "2016-02-08T17:00:00Z"
+	},
+	"staff_id": 3,
+	"customer_id": 258,
+	"order_items": [
+		{
+			"quantity": 1,
+			"list_price": 469.99,
+			"discount": 0.07,
+			"product_id": 6
+		}
+	]
+}
